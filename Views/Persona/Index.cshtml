@@ -1,0 +1,26 @@
+﻿@model IList<Persona>
+@{
+    ViewData["Title"] = "Persona";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Tabla de Personas</h1>
+    <table class="table table-sm table-striped table-hover">
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>DNI</th>
+            <th>Correo</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+                <td>@item.DNI</td>
+                <td>@item.Correo</td>
+            </tr>
+        }
+    </table>
+    
+</div>

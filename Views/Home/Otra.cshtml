@@ -1,0 +1,15 @@
+﻿@model IList<Persona>
+
+@{
+    ViewData["Title"] = "Otra";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Lista de Personas</h1>
+    <ol class="list-group">
+        @foreach (var item in Model)
+        {
+            <li class="list-group-item">@item.Nombre</li>
+        }
+    </ol>
+</div>
