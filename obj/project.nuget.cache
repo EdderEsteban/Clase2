@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQIfhMZY4YjZEI0ZvQpw0+6OTgOJMbs1fhjnxo9WiTkp8z+CKQP+ofjx/a2aexmf1N08InraZgOA0Je+fW1Z3w==",
+  "dgSpecHash": "WvFEMCooGHbSUOz7kQi21JNv8tdFdmKVLP9pISHfO/3MZvVzRcsiHPm2hBarQGgYT98ZC2h7KVjDslFp7v7biA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edder\\Documents\\Desarrollo de Software\\.NET\\Ejemplos de Clase\\Clase 2\\Clase 2.csproj",
+  "projectFilePath": "C:\\Users\\edder\\Documents\\Desarrollo de Software\\.NET\\Ejemplos de Clase\\Clase2\\Clase 2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edder\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\edder\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

@@ -1791,11 +1791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edder\\Documents\\Desarrollo de Software\\.NET\\Ejemplos de Clase\\Clase 2\\Clase 2.csproj",
+      "projectUniqueName": "C:\\Users\\edder\\Documents\\Desarrollo de Software\\.NET\\Ejemplos de Clase\\Clase2\\Clase 2.csproj",
       "projectName": "Clase 2",
-      "projectPath": "C:\\Users\\edder\\Documents\\Desarrollo de Software\\.NET\\Ejemplos de Clase\\Clase 2\\Clase 2.csproj",
+      "projectPath": "C:\\Users\\edder\\Documents\\Desarrollo de Software\\.NET\\Ejemplos de Clase\\Clase2\\Clase 2.csproj",
       "packagesPath": "C:\\Users\\edder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edder\\Documents\\Desarrollo de Software\\.NET\\Ejemplos de Clase\\Clase 2\\obj\\",
+      "outputPath": "C:\\Users\\edder\\Documents\\Desarrollo de Software\\.NET\\Ejemplos de Clase\\Clase2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edder\\AppData\\Roaming\\NuGet\\NuGet.Config"
